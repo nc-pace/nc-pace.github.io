@@ -2,8 +2,8 @@
 ---
 
 $table-border-color: #ffffff;
-$header-bg-color: #000000;
-$header-bg-color-secondary: #444444;
+$header-bg-color-secondary: #000000;
+$header-bg-color: #444444;
 
 @import "{{ site.theme }}";
 
@@ -11,6 +11,7 @@ $header-bg-color-secondary: #444444;
 table {
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }
 
 td {
