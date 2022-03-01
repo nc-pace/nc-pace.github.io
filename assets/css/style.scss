@@ -7,16 +7,17 @@ $header-bg-color: #444444;
 
 @import "{{ site.theme }}";
 
-.main-content table {
-    display: inline;
+#member-table-container {
+    margin: 0 auto;
 }
 
-table {
+#member-table table {
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
 }
 
-td {
+#member-table td {
     text-align: center;
     vertical-align: middle;
 }
