@@ -11,6 +11,10 @@ will address a growing cybersecurity workforce gap through targeted curriculum d
 </div>
 </div>
 
+</div>
+
+<div class="logo-table">
+
 <div class="logo-row">
 <div class="logo">
 <a href="https://charlotte.edu"><img src="{% link assets/uncc.png %}" width=300 alt="UNC Charlotte" /></a>
@@ -37,6 +41,10 @@ will address a growing cybersecurity workforce gap through targeted curriculum d
 <a href="https://pittcc.edu"><img src="{% link assets/pittcc.png %}" width=300 alt="Pitt Community College" /></a>
 </div>
 </div>
+
+</div>
+
+<div class="logo-table">
 
 <div class="logo-row">
 <div class="logo">
