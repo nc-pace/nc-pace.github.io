@@ -1,15 +1,14 @@
 ---
 ---
 
+$table-border-color: #ffffff;
+$header-bg-color: #000000;
+$header-bg-color-secondary: #444444;
+
 @import "{{ site.theme }}";
 
-.page-header {
-    background-color: #000000;
-    background-image: linear-gradient(120deg, #000000, #444444);
-}
 
 table {
-    border: 0px solid transparent;
     margin-left: auto;
     margin-right: auto;
 }
