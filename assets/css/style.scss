@@ -7,26 +7,6 @@ $header-bg-color: #444444;
 
 @import "{{ site.theme }}";
 
-.mytable-container {
-    margin: 0 auto;
-    text-align: center;
-}
-
-.mytable table {
-    text-align: center;
-    padding: 50px;
-    margin: 50px auto;
-    overflow: unset;
-    word-break: unset;
-    text-align: center;
-  
-    td {
-        text-align: center;
-        vertical-align: middle;
-        padding: 50px;
-    }
-}
-
 .logo-table {
     display: table;
     width: 100%;
