@@ -4,7 +4,7 @@ pace of cybersecurity excellence in education, research, and services to counter
 will address a growing cybersecurity workforce gap through targeted curriculum development, skills development, work-based learning, and certification support; will protect financial assets and intellectual property (IP); and will drive the economic growth of North Carolina’s public agencies and private sector businesses through cybersecurity research and service. Synergistically, NC-PaCE supports entrepreneurial and economic growth in North Carolina.
 
 <div id="member-table-container">
-<table id="member-table">
+<table id="member-table" class="mytable">
 <tbody>
 <tr>
 <td colspan=2>
