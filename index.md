@@ -38,7 +38,7 @@ will address a growing cybersecurity workforce gap through targeted curriculum d
 </tr>
 
 <tr>
-<td>
+<td colspan=2>
 <a href="https://waketech.edu"><img src="{% link assets/waketech.png %}" width=300 alt="Wake Technical Community College" /></a>
 </td>
 </tr>
