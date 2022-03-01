@@ -1,5 +1,3 @@
-## NC-PaCE
-
 The North Carolina Partnership for Cybersecurity Excellence (NC-PaCE) is a coalition of
 educational, government, and industry organizations committed to accelerating the state’s and the nation's
 pace of cybersecurity excellence in education, research, and services to counter cyber threats. NC-PaCE
