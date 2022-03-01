@@ -28,19 +28,22 @@ $header-bg-color: #444444;
 }
 
 .logo-table {
-    display: block;
+    display: table;
+    width: 100%;
     text-align: center;
     margin: 0 auto;
 }
 
 .logo-row {
-    display: block;
+    display: table-row;
     text-align: center;
+    width: 100%;
     margin: 0 auto;
 }
 
 .logo {
-    display: block;
+    display: table-cell;
+    width: auto;
     text-align: center;
     margin: 0 auto;
     padding:25px
