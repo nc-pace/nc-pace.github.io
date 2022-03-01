@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+table {
+    border-width: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+}
