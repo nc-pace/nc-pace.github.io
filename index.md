@@ -13,10 +13,10 @@ will address a growing cybersecurity workforce gap through targeted curriculum d
 </tr>
 
 <tr>
-<td width="50%">
+<td>
 <a href="https://charlotte.edu"><img src="{% link assets/uncc.png %}" width=300 alt="UNC Charlotte" /></a>
 </td>
-<td width="50%">
+<td>
 <a href="https://ncat.edu"><img src="{% link assets/ncat.png %}" width=300 alt="North Carolina A&amp;T" /></a>
 </td>
 </tr>
