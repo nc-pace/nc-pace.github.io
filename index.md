@@ -6,40 +6,40 @@ will address a growing cybersecurity workforce gap through targeted curriculum d
 <table border=0>
 <tr>
 <td colspan=2 align="center" valign="top">
-<a href="https://ncsu.edu"><img href="{% link assets/ncstate.png %}" width=400 alt="NC State" /></a>
+<a href="https://ncsu.edu"><img src="{% link assets/ncstate.png %}" width=400 alt="NC State" /></a>
 </td>
 </tr>
 
 <tr>
 <td align="center" valign="top">
-<a href="https://charlotte.edu"><img href="{% link assets/uncc.png %}" width=300 alt="UNC Charlotte" /></a>
+<a href="https://charlotte.edu"><img src="{% link assets/uncc.png %}" width=300 alt="UNC Charlotte" /></a>
 </td>
 <td align="center" valign="top">
-<a href="https://ncat.edu"><img href="{% link assets/ncat.png %}" width=300 alt="North Carolina A&amp;T" /></a>
-</td>
-</tr>
-
-<tr>
-<td align="center" valign="top">
-<a href="https://ecu.edu"><img href="{% link assets/ecu.png %}" width=300 alt="East Carolina University" /></a>
-</td>
-<td align="center" valign="top">
-<a href="https://uncw.edu"><img href="{% link assets/uncw.png %}" width=300 alt="UNC-Wilmington" /></a>
+<a href="https://ncat.edu"><img src="{% link assets/ncat.png %}" width=300 alt="North Carolina A&amp;T" /></a>
 </td>
 </tr>
 
 <tr>
 <td align="center" valign="top">
-<a href="https://forsythtech.edu/"><img href="{% link assets/forsythtech.png %}" width=300 alt="Forsyth Technical Community College" /></a>
+<a href="https://ecu.edu"><img src="{% link assets/ecu.png %}" width=300 alt="East Carolina University" /></a>
 </td>
 <td align="center" valign="top">
-<a href="https://pittcc.edu"><img href="{% link assets/pittcc.png %}" width=300 alt="Pitt Community College" /></a>
+<a href="https://uncw.edu"><img src="{% link assets/uncw.png %}" width=300 alt="UNC-Wilmington" /></a>
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="top">
+<a href="https://forsythtech.edu/"><img src="{% link assets/forsythtech.png %}" width=300 alt="Forsyth Technical Community College" /></a>
+</td>
+<td align="center" valign="top">
+<a href="https://pittcc.edu"><img src="{% link assets/pittcc.png %}" width=300 alt="Pitt Community College" /></a>
 </td>
 </tr>
 
 <tr>
 <td colspan=2 align="center" valign="top">
-<a href="https://waketech.edu"><img href="{% link assets/waketech.png %}" width=300 alt="Wake Technical Community College" /></a>
+<a href="https://waketech.edu"><img src="{% link assets/waketech.png %}" width=300 alt="Wake Technical Community College" /></a>
 </td>
 </tr>
 
