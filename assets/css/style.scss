@@ -8,7 +8,7 @@ $header-bg-color: #444444;
 @import "{{ site.theme }}";
 
 .main-content table {
-    display: none;
+    display: inline;
 }
 
 table {
