@@ -13,15 +13,13 @@ $header-bg-color: #444444;
 
 #member-table table {
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    padding: 25px;
+    margin: 10px auto;
 }
 
-#member-table tbody {
-    text-align: center;
-}
 
 #member-table td {
     text-align: center;
     vertical-align: middle;
+    padding: 15px;
 }
